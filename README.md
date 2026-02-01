@@ -15,8 +15,8 @@ Hi, I’m Syed Bilal Ahmed, an AI Software Engineer based in London. I build rea
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=bilalahmed15&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=bilalahmed15&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=bilalahmed15&icon=0&color=0)](https://visitcount.itsvg.in)
